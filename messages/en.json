@@ -1,0 +1,17 @@
+{
+    "IntroSection": {
+        "hello_im": "Hi, my name is",
+        "name": "All",
+        "short_intro": "I enjoy the process of learning and the sense of achievement in applying what I have learned!",
+        "download_cv": "Download CV"
+    },
+    "SectionName": {
+        "about": "About me",
+        "experience": "Experience",
+        "projects": "Projects",
+        "skills": "Skills"
+    },
+    "AboutSection": {
+        "desc": "I am a full-stack developer with a passion for technology and a keen attention to detail in coding. I have a strong ability to independently develop and deliver projects, and I take my work seriously and responsibly. Over the years, I've gained valuable development experience and improved my technical skills. I have cultivated a good coding style and adhere strictly to code standards. Additionally, I have enhanced my understanding of the industry and developed strong communication, teamwork, and collaboration skills 🛠️🌐.<br/>When I'm not at the computer, I enjoy cooking, watching movies and anime, and working out 🍳🎥💪. <br/>\n\nRegular exercise, sleep, and a balanced diet are my secrets to staying energized 🌟."
+    }
+}
